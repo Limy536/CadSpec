@@ -1,0 +1,4 @@
+repository "Cadspec Software@limy536@cloud"
+  path "/"
+    br "/main"
+    co "/main"
